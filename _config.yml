@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "SoYoung"
-  avatar           : # path of avatar image, e.g. "https://image.flaticon.com/icons/svg/809/809052.svg"
+  avatar           : "https://image.flaticon.com/icons/svg/809/809052.svg"
   bio              : "I am an **amazing** person."
   location         : "Korea"
   email            : "Email"
